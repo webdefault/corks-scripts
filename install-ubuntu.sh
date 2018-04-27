@@ -1,4 +1,7 @@
 #!/system/bin/sh
+
+# This shell script is based on https://github.com/Neo-Oli/termux-ubuntu/blob/master/ubuntu.sh
+
 if [ ! -d "dist" ]; then
     mkdir dist
 fi
